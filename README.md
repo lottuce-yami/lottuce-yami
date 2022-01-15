@@ -1,7 +1,7 @@
 ### Good morning ☀️
 
 I'm [Lotte 🥬](https://t.me/lottuce_yami "Telegram"), a newbie that *wishes* to create entertaining things for myself and friends.  
-I administer a non-popular private Minecraft server **Raramur** ![logo](http://raramurr.000webhostapp.com/server-icon.png) and try to write plugins (or else) for it.
+I administer a non-popular private Minecraft server **Raramur** ![logo](https://api.mcsrvstat.us/icon/raramur.ru:25565) and try to write plugins (or else) for it.
 
 `Minecraft nickname: Consolka`
 
