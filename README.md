@@ -1,4 +1,5 @@
-### Hey there! ☀️
+# Good morning! ☀️
 
-I'm Lotte, aka Consolka.  
-I own a non-popular private Minecraft server **Raramur** ![logo](https://api.mcsrvstat.us/icon/raramur.ru:25565) and mostly *attempt* to liven it up by developing mod/data/resourcepacks.
+I'm **Lotte (ロッテ)**, aka **Consolka**.  
+I own a private Minecraft server **Raramur** ![server icon](raramur-icon.png) and my activity consists mostly of *attempts* to liven this server up by developing small mod/data/resource packs.  
+I'm also a .NET developer trying to become a professional, so once in a blue moon, I start *real* projects 🌱  
